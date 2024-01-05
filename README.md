@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thamara
-- 👀 I’m interested in data science and automation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python data science projects
+- 👀 I'm passionate about data science and automation
+- 🌱 Currently delving into the realms of JavaScript and Python
+- 💞️ Open to collaborating on Python data science projects
 - 📫 You can reach me on linkedin.com/in/thamaraboliveira/
 
 <!---
