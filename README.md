@@ -1,18 +1,15 @@
 # ThamisB's GitHub Profile
 
-Hey there! 👋 I'm Thamara, also known as ThamisB in the coding world. I hold a degree in Business Administration, work in Business Intelligence, and am currently pursuing a degree in Analysis and Systems Development. I'm on a journey of career transition, diving into the exciting realms of JavaScript and Python.
+Hey there! 👋 I'm Thamara, also known as ThamisB in the coding world. I hold a degree in Business Administration and work as Business Intelligence Specialist for a Brazilian Advertising Agency.
 
 ## 🚀 About Me
 
 - 👩‍💼 Business Administration graduate
 - 📊 Business Intelligence enthusiast
-- 📚 Currently studying Analysis and Systems Development
-- 💻 Transitioning to a career in software development
-- 🌱 Learning JavaScript and Python
+- 📚 Currently studying SFMC and AWS Cloud
 
 ## 🛠️ Tech Stack
 
-- 💡 JavaScript
 - 🐍 Python
 - 📊 Business Intelligence Tools
 - 🖥️ Data Visualization
